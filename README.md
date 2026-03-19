@@ -14,6 +14,8 @@ Integração com API externa para dados
 Backend próprio para catalogação e gerenciamento das espécies
 
 # Tecnologias
+```
 Java - Android nativo
 Backend - Api REST com integração de dados de espécies
 Android SDK
+```
